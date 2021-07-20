@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/animated-landing-page-React/static/css/main.7333e602.chunk.css",
+    "main.js": "/animated-landing-page-React/static/js/main.bd440825.chunk.js",
+    "main.js.map": "/animated-landing-page-React/static/js/main.bd440825.chunk.js.map",
+    "runtime-main.js": "/animated-landing-page-React/static/js/runtime-main.d08e60fe.js",
+    "runtime-main.js.map": "/animated-landing-page-React/static/js/runtime-main.d08e60fe.js.map",
+    "static/js/2.7f7e25d0.chunk.js": "/animated-landing-page-React/static/js/2.7f7e25d0.chunk.js",
+    "static/js/2.7f7e25d0.chunk.js.map": "/animated-landing-page-React/static/js/2.7f7e25d0.chunk.js.map",
+    "index.html": "/animated-landing-page-React/index.html",
+    "precache-manifest.938383892f82bc61e217c4451b8909e3.js": "/animated-landing-page-React/precache-manifest.938383892f82bc61e217c4451b8909e3.js",
+    "service-worker.js": "/animated-landing-page-React/service-worker.js",
+    "static/css/main.7333e602.chunk.css.map": "/animated-landing-page-React/static/css/main.7333e602.chunk.css.map",
+    "static/js/2.7f7e25d0.chunk.js.LICENSE.txt": "/animated-landing-page-React/static/js/2.7f7e25d0.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.svg": "/animated-landing-page-React/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.svg": "/animated-landing-page-React/static/media/arrow-right.dc372a07.svg",
+    "static/media/arrow-up.svg": "/animated-landing-page-React/static/media/arrow-up.24e8d8f2.svg",
+    "static/media/curology-min.png": "/animated-landing-page-React/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/animated-landing-page-React/static/media/lumin-min.379bad94.png",
+    "static/media/yourspace-min.png": "/animated-landing-page-React/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d08e60fe.js",
+    "static/js/2.7f7e25d0.chunk.js",
+    "static/css/main.7333e602.chunk.css",
+    "static/js/main.bd440825.chunk.js"
+  ]
+}

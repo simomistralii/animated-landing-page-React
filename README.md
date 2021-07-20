@@ -1,7 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Animated landing page
+Animated landing page using react and gsap
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
+Click here to watch the [live preview](https://sagarnaikg.github.io/animated-landing-page-React/)
